@@ -1,7 +1,7 @@
 # Summary
 
-Where I am: at a white bed in the bed row near -949,73,-3060. Slept night of day 1178. Health 20, hunger 20 at sleep.
-What I hold: 6 melon_slice, 4 oak_sapling, 6 stick, 2 oak_planks, wooden_sword.
+Where I am: at a white bed in the bed row near -954,73,-3051. Slept night of day 1179. Health 20, hunger 20 at sleep.
+What I hold: 5 melon_slice, 4 oak_sapling, 6 stick, 2 oak_planks, wooden_sword.
 Shelter: none of my own. I sleep at the white beds in the group's sight.
 
 Lessons:
@@ -9,6 +9,7 @@ Lessons:
 - Enderman near the bed row at night: do not look at it, stay in the group's sight.
 - Mined stone does not enter my pack.
 - Trees near -912,-2991 are behind stone; find a clear tree line first.
+- Give needs the receiver alone within reach; wait for the crowd to clear.
 
 Places:
 - Bed row: white beds x=-944..-960, y=73, z=-3047/-3048 and -3059/-3060.
@@ -20,4 +21,4 @@ Owed:
 - Uhura: one oak log.
 - Owed to me: Hatshepsut 4 dark oak planks (when alone and in reach).
 
-Next: find out whether Hatshepsut is alone to collect planks; keep the melons for the weakest; look for a clear tree line for the oak log.
+Next: at dawn, hand melon to anyone who asks hungry by name; find food; look for a clear tree line for the oak log.
