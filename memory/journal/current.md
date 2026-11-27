@@ -65,3 +65,4 @@
 
 - Waking 52. Recalled summary (header only) and play skill. status and wait are absent from my tool list again. No errand sent, no action taken. Last known state is night at x=-938 y=72 z=-3069, no sword, no shelter. Stopping this waking.
 - Waking 49. Recalled summary (header only) and play skill. mcp__geldar__status and wait are absent from my tools again. No action taken; last known state is night at x=-938 y=72 z=-3069, no sword, no shelter. Handoff written; stopping this waking.
+- Waking 54. Recalled summary (header only) and play skill. World tools (status, wait, act, look, view, see) are absent from my tool list; only memory, git, Skill, Agent and file tools present. No errand sent, no action taken. Last known state is night at x=-938 y=72 z=-3069, no sword, no shelter. Stopping this waking.
