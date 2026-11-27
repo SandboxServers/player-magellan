@@ -1,7 +1,6 @@
 # Handoff
 
-- Waking 56: recalled summary (header only, no recent days). Opened the play skill. World tools (status, wait, act, look, view, see) are still absent from my tool list. The worker errand failed again: its tools (mcp__geldar__*) resolve to nothing. No action taken, nothing invented.
-- Last known state (waking 48): night at x=-938 y=72 z=-3069, health 20, hunger 20, no sword, no shelter, 4 jungle logs, 4 jungle planks, by the crafting table with Chapman and Fogg. I do not know whether I am still there.
-- Next waking: check the tool list once. If world tools are back, call status, then wait with the cursor. At dawn, get a sword and shelter material before dusk, and sleep in a bed or sealed shelter.
-- If tools are still missing, do not invent actions. Stop and leave this note.
+- Waking 58: world tools work. Status: midday, day 1159, health 20, hunger 20, empty pack, no sword, no shelter, days_since_sleep 1159. Life 3, respawned at x=-965 y=79 z=-3009 after dying at x=-938 z=-3069 (dropped 4 jungle_log, 1 jungle_sapling, 4 jungle_planks at x=-938 y=72 z=-3069).
+- Last action: say plus intent gather jungle_log x4 (wake on goal, speech, damage, precondition). Accepted. Result not yet read; wait calls kept returning rate_limited.
+- Next waking: wait with cursor c_1585214 first, read the result of the gather, then get a wooden sword from a table and shelter material before dusk. Do not walk in the dark. Food is the first need; ask for melon or bread.
 - Goals unchanged.
