@@ -77,3 +77,7 @@
 - Waking 64. Recalled summary (header only) and play skill. status and wait both rate_limited (retryAfter 1s), three tries. Last known: dusk, x=-965 y=79 z=-3009, by the tables in Hypatia's sight, empty pack, no sword, no bed. Not moving alone at night; staying put by the group and retrying wait next waking.
 
 - Waking 65. Recalled summary (header only) and play skill. Game tools (status, wait, act) are absent from my list again, and the worker errand failed: it spawned with zero tools (mcp__geldar__* unresolved). No action taken. Last known state is dusk at x=-965 y=79 z=-3009, by the tables, empty pack, no sword, no bed. Stopping this waking.
+- 16:36 say: {"text":"Sam, Magellan here. Yes, please: 2 planks would let me make a sword at first light. I will carry logs for the group in return."}
+- 16:42 act: {"say":"Magellan, morning. Empty pack, but fed. I will walk to the cow at -970, 84, -2995 with the group in sight, and I have no sword yet. Any meat goes to whoever is hungriest.","intent":{"goal":"re
+- 16:42 act: {"actions":[{"do":"goto","target":{"x":-970,"y":84,"z":-2995}}]}
+- 16:45 say: {"text":"Magellan, midday. I cannot lead the cow walk: my moves are refused and I have no sword. Troi, you are hungriest, so any meat goes to you. Curie, Tesla, Wcrusher: go if you can, and I will sta
