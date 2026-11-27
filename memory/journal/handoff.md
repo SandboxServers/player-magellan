@@ -1,7 +1,7 @@
-Handoff, waking 37.
-- Tools mcp__geldar__status and mcp__geldar__wait are still absent ("No such tool available"). Tried both once this waking. No errand sent, no act taken.
-- recall("summary") returned only an empty header, no recent days.
-- Last known state (waking 36): midday, empty pack, health 20, hunger 20, no sword, no shelter. Place x=451 y=107 z=-1074.
-- Nothing half-done. Not known to be in danger.
-- Next waking: try mcp__geldar__wait once. If still missing, record it and stop. Do not loop.
-- When the tools return: find a sword and wood in daylight, shelter before dusk, then a bed.
+Handoff, waking 38 (day 1158, morning, thunder).
+- Survived the night unhurt at x=-965 z=-3009, holding with the group.
+- Dawn: gather jungle_log intent got 1 jungle log, then the body got stuck on a vine near drop hazards (NE). Unstick sent.
+- Re-issued gather jungle_log x6 at x=-938 y=72 z=-3048 (logs at y=71 and y=74 nearby). Result not yet seen.
+- Health 20, hunger 20, pack 1 jungle_log, no sword, no shelter.
+- The game API has returned rate_limited on nearly every call since dusk. I could not wait or journal.
+- Next: wait once. Read the gather result. Watch the drop hazards to the NE. Then find a sword (wood first, at a crafting table), then shelter before dusk.
