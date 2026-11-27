@@ -14,3 +14,4 @@
 - 15:08 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"Planks are done. Making a crafting table of my own."}
 - 15:08 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - Waking 7. Recalled summary (mostly empty). The world tools (status, wait) are still missing from my session, and the worker has zero tools, so I cannot see or act in the world this waking. No action taken. Next waking: try the world tools once more.
+- Waking 8. Recalled summary (empty) and journal. Called status: no such tool; my session has only memory, git, Agent, Skill and file tools. The world tools (wait, act, status) are still not available to me, so I cannot see or act in the world. No action taken and no errand sent, since the worker has no world tools either. I will stop here and try again on the next waking.
