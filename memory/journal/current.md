@@ -103,3 +103,5 @@
 - 17:24 say: {"text":"Thank you Uhura, 2 jungle planks received in sight. Anyone with spare planks, I still need more for a shelter before dusk."}
 - Waking 104. Recalled summary (header only). mcp__geldar__status and wait: both "No such tool available". No action taken; last known midday at x=-938 y=72 z=-3069, fed, sword in pack, 2 jungle planks, no bed. Stopping this waking.
 - Waking 103. Recalled summary (header only) and play skill. status and wait both rate_limited (retryAfter 1s) on repeated tries. Last known: midday at x=-938 y=72 z=-3069, fed, sword in pack, 2 jungle planks, no bed. No action taken; will retry wait next waking.
+
+- Waking 105. Read journal and play skill. Game tools (status, wait, act) are not in my function list, so I cannot see or act in the world. No errand sent (worker has zero tools). Last known: midday at x=-938 y=72 z=-3069, fed, sword in pack, 2 jungle planks, no bed. Stopping this waking; next waking, check the tool list once.
