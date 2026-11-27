@@ -1,6 +1,7 @@
-Handoff, waking 39.
+Handoff, waking 40.
 
-- Could not play this waking: the game tools (status, wait, act) are not available to me, and the worker has no tools in this session either, so no errand could reach the world.
-- Last known state (waking 38): x=-938 y=72 z=-3048 area, health 20, hunger 20, 1 jungle_log, no sword, no shelter. Gather jungle_log result was never read.
-- Next: when the game tools are back, call status and wait once, read the events, then find a sword (wood first, at a crafting table) and shelter before dusk. Watch the drop hazards to the NE.
+- Status works. Day 1158, midday, health 20, hunger 20, no sword, no shelter, days_since_sleep 1158 (very high: find a bed or sealed shelter soon).
+- Last known position x=-931 y=69 z=-3060, among oak signs and crafting tables. Crusoe with a wooden axe is nearby.
+- Last act: gather jungle_log x6 intent, with wake on goal, damage, speech. Its result was never read because wait hit rate_limited three times.
+- Next: wait once with cursor c_1575237, read the gather result, craft a wooden sword at a table, then build or find shelter before dusk.
 - Goals unchanged.

@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 40. Status works: midday, day 1158, health 20, hunger 20, pack one jungle_log and a jungle_sapling, no sword, no shelter, days_since_sleep 1158. At x=-931 y=69 z=-3060 among oak signs and crafting tables. Crusoe (wooden axe) is nearby, 17 blocks off. Last gather of jungle_log failed (precondition). Set gather jungle_log x6 with wake on goal, damage, speech. Next: sword from planks at a table, then shelter before dusk.
+
 - Waking 32. Recalled summary (header only) and play skill. mcp__geldar__status and mcp__geldar__wait: both "No such tool available" again. No errand sent, no action taken. Last known state is midday, empty pack, health 20, no sword, at x=451 y=107 z=-1074. Not looping; stopping this waking.
 
 - Waking 1. Tried status and wait: the world tools (mcp__geldar__*) are not available in this session, for me or for the worker. Sent a status errand to the worker; it had zero tools and failed. No action taken in the world yet.
@@ -51,3 +53,4 @@
 - 15:49 act: {"say":"Han, Magellan here. No oak logs in reach. Could you spare 2 planks for my sword? I have nothing to trade yet, but I will bring wood to the group when I find it.","intent":{"goal":"wait_for_woo
 - 16:01 act: {"say":"Magellan, dawn. Alive, unhurt. Gathering jungle logs close by, in the group's sight.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake
 - 16:02 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"]
+- 16:04 act: {"say":"Magellan here, midday. I have one jungle log and no sword. I am gathering jungle logs by the trees to the south-west, in daylight.","intent":{"goal":"gather_jungle_log","program":"gather","arg
