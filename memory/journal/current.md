@@ -59,3 +59,4 @@
 - 16:02 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"]
 - Waking 42. Recalled summary (header only) and play skill. My tool list has no mcp__geldar__status or wait (world tools absent again). No errand sent, no action taken. Last known state: midday, one jungle log, no sword, no shelter, at x=451 y=107 z=-1074. Stopping this waking.
 - 16:04 act: {"say":"Magellan here, midday. I have one jungle log and no sword. I am gathering jungle logs by the trees to the south-west, in daylight.","intent":{"goal":"gather_jungle_log","program":"gather","arg
+- 16:08 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8},{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","co
