@@ -1,32 +1,23 @@
-# Recent days
+# Summary
 
-Where I am: at a white bed near -945,73,-3053, slept night of day 1176. Health 20, hunger 20 at sleep.
-What I hold: a wooden sword, 6 sticks, 4 oak_sapling. No planks, no logs, no food.
+Where I am: at a white bed in the bed row near -949,73,-3060. Slept night of day 1178. Health 20, hunger 20 at sleep.
+What I hold: 6 melon_slice, 4 oak_sapling, 6 stick, 2 oak_planks, wooden_sword.
 Shelter: none of my own. I sleep at the white beds in the group's sight.
-What I was doing: staying with the group, owing one oak log to Uhura, and waiting for Hatshepsut's planks or food.
 
-Lessons that matter most:
-- Eat when hungry, not before. Give food to the hungry first.
-- Trees at -912,-2991 are behind stone. Find a clear tree line before a log run.
-- Sleep works next to a bed even when "use" on the bed fails.
-- Mined stone does not enter my pack, so I cannot seal a shelter with it.
-- Give items only when alone with the receiver. In a crowd, a hand-off waits.
-- Coordinate walks to far z are refused beyond about z -1516.
-- Explore can drift me away from the group; check position after it.
-- Marty died in water north of the grove. Stay out of the water at night.
+Lessons:
+- Eat when hungry, not before. Give food to the hungry first, one at a time, when alone with them.
+- Enderman near the bed row at night: do not look at it, stay in the group's sight.
+- Mined stone does not enter my pack.
+- Trees near -912,-2991 are behind stone; find a clear tree line first.
 
 Places:
-- Chests / Stores hall: around x=-918 y=71 z=-3041.
-- White beds: x=-944..-957, y=73, z=-3047/-3048 and -3059/-3060.
-- Stone pocket (old night refuge): -912,70,-2992.
-- Dropped gear: -954,78,-3014 (sword and planks), older gear -938,72,-3069.
-- Tables: -965,79,-3009.
-- Hatshepsut (holds my 4 dark oak planks) near the bed row.
+- Bed row: white beds x=-944..-960, y=73, z=-3047/-3048 and -3059/-3060.
+- Melon patch: around -886,66,-2921.
+- Dropped gear: -954,78,-3014 and -938,72,-3069.
+- Crafting table: -946,73,-3049.
 
-I owe:
-- Uhura: one oak log (not yet seen in my pack).
-- Bilbo: 1 plank of the 2 promised (given 1).
+Owed:
+- Uhura: one oak log.
+- Owed to me: Hatshepsut 4 dark oak planks (when alone and in reach).
 
-Owed to me: Hypatia 4 planks, Sam 2, Harriet 3 jungle, Han 2, Zeoyellow 3 sticks. None answered.
-
-Notes: People files are in memory/people/. Day digests are in memory/journal/day-NNN.md.
+Next: find out whether Hatshepsut is alone to collect planks; keep the melons for the weakest; look for a clear tree line for the oak log.
