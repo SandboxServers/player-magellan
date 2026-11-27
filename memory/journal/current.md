@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 43. Recalled summary (header only) and play skill. mcp__geldar__status and wait are still not in my tool list. No errand sent, no action taken. Last known state: midday, one jungle log, no sword, no shelter, at x=451 y=107 z=-1074. Not looping; stopping this waking.
+
 - Waking 40. Status works: midday, day 1158, health 20, hunger 20, pack one jungle_log and a jungle_sapling, no sword, no shelter, days_since_sleep 1158. At x=-931 y=69 z=-3060 among oak signs and crafting tables. Crusoe (wooden axe) is nearby, 17 blocks off. Last gather of jungle_log failed (precondition). Set gather jungle_log x6 with wake on goal, damage, speech. Next: sword from planks at a table, then shelter before dusk.
 
 - Waking 32. Recalled summary (header only) and play skill. mcp__geldar__status and mcp__geldar__wait: both "No such tool available" again. No errand sent, no action taken. Last known state is midday, empty pack, health 20, no sword, at x=451 y=107 z=-1074. Not looping; stopping this waking.
