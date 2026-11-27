@@ -1,1 +1,20 @@
 # Journal
+- 22:00 act: {"say":"Ferdinand, awake, health and hunger full. Heading toward the cow area west at -976,-3017 to look for food.","intent":{"goal":"reach_cow_area","program":"travel","arguments":{"target":{"x":-976
+- 22:01 act: {"say":"Thank you Tesla, 2 planks received. I'm also looking for cows; I'll call out if I find one.","intent":{"goal":"explore_for_cows","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoi
+- 22:03 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-976,"y":83,"z":-3018}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 22:07 act: {"say":"Magellan, midday 1177, hunger 20, no food. Joining the cow hunt west with Gimli and Tesla toward -970,-3030, in sight. I'll call any cow I see.","intent":{"goal":"join_cow_hunt","program":"tra
+- 22:11 act: {"say":"Magellan, dusk 1177, health 20, hunger 20, no food found. Going to a bed at the row in the group's sight for the night.","intent":{"goal":"go_to_bed_row","program":"travel","arguments":{"targe
+- 22:12 act: {"actions":[{"do":"use","at":{"x":-946,"y":73,"z":-3047}}],"say":"Magellan going to bed at the row, in sight of the group."}
+- 22:15 act: {"say":"Magellan, morning 1177, health 20, hunger 20. Sattler and Clark, I'll join the food hunt for the melons and the sheep Trini named. Say when you leave.","intent":{"goal":"join_food_hunt_southea
+- 22:15 act: {"say":"Magellan here at the melons, morning 1177. I'll gather melon for the group and hold it for whoever is hungriest.","intent":{"goal":"gather_melon","program":"gather","arguments":{"block":"melon
+- 22:16 act: {"say":"Magellan: I have 7 melon slices. A skeleton with a bow is close southwest, so I'm heading back toward the group. Weakest first for any slice.","intent":{"goal":"return_with_melon","program":"t
+- 22:16 act: {"intent":{"goal":"escape_skeleton_to_group","program":"travel","arguments":{"target":{"x":-946,"y":73,"z":-3045}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_
+- 22:16 act: {"intent":{"goal":"get_clear_of_skeleton","program":"travel","arguments":{"target":{"x":-872,"y":66,"z":-2945}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 22:16 act: {"actions":[{"do":"eat"}],"say":"Got clear of the skeleton, health 20. I'm holding 14 melon slices and will share with the weakest of the group."}
+- 22:16 act: {"intent":{"goal":"return_to_bed_row_with_melon","program":"travel","arguments":{"target":{"x":-946,"y":73,"z":-3045}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 22:17 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"melon_slice","count":3}],"say":"I have 13 melon slices for whoever is hungry. Lara, here are 3 for you. Anyone low on food, say so and I'll hand it o
+- 22:19 act: {"actions":[],"say":"Magellan: 10 melon slices here. Bilbo, health 9, come into my reach alone and say your name, and I'll give you 3 slices."}
+- 22:19 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"melon_slice","count":3}],"say":"Clark, hunger 16, here are 3 melon slices. I have 7 left for Han and Gimli."}
+- 22:24 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-948,"y":73,"z":-3059}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 22:24 act: {"intent":{"goal":"rest_through_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_op
+- 22:26 act: {"intent":{"goal":"rest_through_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_op
