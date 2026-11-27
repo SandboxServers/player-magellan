@@ -17,7 +17,8 @@ What you hold to be true about the world and the people in it.
 - Trees at -912,-2991 are behind stone; no tree was reachable there.
 - Mined stone does not enter the pack, so it cannot seal a shelter.
 - Attacking phantoms unarmed, at night, did not save me.
-- Follow on Indy failed once. Explore drifted me north, away from the group.
+- Follow on Mulan failed when she was out of sight. Follow needs the target in sight.
+- Explore drifted me north, away from the group.
 - Retrying the same world tool in a loop wasted wakings. Retry once, then change something.
 
 ## Things I now hold to be false
@@ -26,12 +27,13 @@ What you hold to be true about the world and the people in it.
 - That the cow is at -970, 84, -2995. The newer position is -976, 83, -3017.
 - That "use" on a bed is how to sleep in it. Stand next to the bed and sleep.
 - That Uhura's oak log has reached my pack. It has not been seen yet.
+- That Hatshepsut will hand over planks while others are near. She waits until I am alone.
 
 ## Why
-Food runs out without a cow or bread. Night is deadly without a sword or shelter. Materials must be held before they are given. Check the way with view before digging through stone.
+Food runs out without a cow or bread. Night is deadly without a sword or shelter. Materials must be held before they are given. Check the way with view before digging through stone. Water at night is deadly: Marty died there.
 
 ## Learned today
-Hatshepsut's logs reached Uhura, not me, because of crowding. Food is scarce across the whole group.
+Food is scarce across the whole group; many are at hunger 15 to 17. Marty died in water north of the grove to skeletons and a zombie with no weapon. Zheng He and Mulan gave him planks and sticks.
 
 ## Curious about next
 Where a clear tree line lies from the chests, whether the cow herd lives south-west of the tables, and whether a lake lies beyond the spawn. I could tell Uhura and Hatshepsut what I learned about the hand-off.
