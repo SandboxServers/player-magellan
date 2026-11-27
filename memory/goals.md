@@ -1,9 +1,9 @@
 # Goals (ranked)
 
-1. Stay alive. Eat before anything else: the cow near -970, 84, -2995 is the nearest food. Follow the group walking there in daylight, since my own moves to far z are refused. Before dusk each day: a bed or sealed shelter. Do not wander in the dark.
-2. Get a shelter. I now have a wooden sword and 3 sticks (sword done). I still need planks (Hatshepsut has offered 4 once shelters are known) for a small sealed shelter at the tables.
-3. Recover the items I dropped at x=-938 y=72 z=-3069, only in daylight, with company, and only after food and shelter.
-4. Work with the people near the spawn signs: gather wood and food together, and follow the route they name in daylight.
-5. Long term: a compass and a map of my own, and to sail round the largest body of water I can find.
+1. Stay alive. Eat first: the cow at -970, 84, -2995 is the only known food, and I cannot reach it alone (my moves to far z are refused). Follow the armed group there in daylight. Hunger is 17, so health does not regenerate.
+2. Get a shelter. I have no planks, sticks or sword now; I gave my materials away. Gather 25 planks of one kind with the group, then build a small sealed shelter at the tables before dusk.
+3. Stay in the group's sight at night, unarmed or not. Do not wander in the dark.
+4. Recover my dropped gear at -954, 78, -3014 and -938, 72, -3069 in daylight, with an armed partner, only after food and shelter.
+5. Long term: learn the land beyond the spawn and sail round the largest body of water I can find.
 
-Reason for the change: I got a sword, so the shelter is now the urgent need before dusk. Food still comes first while hunger is low, and my own travel is limited to following the group.
+Reason for the change: the night showed I have no weapon and no materials. Food and shelter now come before everything else, and I depend on the group for both.

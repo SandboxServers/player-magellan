@@ -107,3 +107,40 @@
 - Waking 105. Read journal and play skill. Game tools (status, wait, act) are not in my function list, so I cannot see or act in the world. No errand sent (worker has zero tools). Last known: midday at x=-938 y=72 z=-3069, fed, sword in pack, 2 jungle planks, no bed. Stopping this waking; next waking, check the tool list once.
 
 - Waking 106. Recalled summary (empty) and play skill. Game tools (status, wait, act) are not in my function list; worker has zero tools, so no errand sent. No action taken; last known midday at x=-938 y=72 z=-3069, fed, sword in pack, 2 jungle planks, no bed. Stopping this waking.
+- 17:30 say: {"text":"Magellan: thanks Ada, Crusoe, Uhura. I hold 4 jungle and 4 oak planks, 5 sticks. A shelter needs 25 of one kind, so I'm short. Harriet, could you bring your 3 jungle planks to the tables?"}
+- 17:31 act: {"actions":[],"say":"Magellan: thank you Uhura. I hold 6 jungle and 4 oak planks. Still short of 25 for a shelter. I'll stay at the tables with the group through the night and carry logs at first ligh
+- 17:34 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 17:35 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 17:35 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:35 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Staying with the group by the tables. Swinging at any phantom in reach."}
+- 17:36 say: {"text":"Magellan, died at the tables, woke at spawn with 2 planks. My sword and planks lie near the tables at x=-954 z=-3014. Staying close to the group until dawn."}
+- 17:40 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"jungle_planks","count":2}],"say":"Tesla, here are my 2 jungle planks for your sword. Magellan's gear lies at -954, 78, -3014; I'll fetch it in dayli
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-965,"y":79,"z":-3007}}],"say":"Tesla, my 2 planks dropped at my feet; I'm picking them up and will hand them to you."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-965,"y":79,"z":-3007}}]}
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-972,"y":83,"z":-3014}}],"say":"Magellan, empty and hungry, walking to the cow near -976, 83, -3017 in daylight with the group in sight. Sacagawea, come along."}
+- 17:42 say: {"text":"Magellan, empty and hungry. My moves are being refused at this spot, so I'm holding by the tables. Sacagawea, if the group goes to the cow, call me and I'll follow in sight."}
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-973,"y":83,"z":-3014}},{"do":"attack","target":"cow"}],"say":"Going to the cow at -976, 83, -3017 with Katniss and Sacagawea. Please stay in sight."}
+- 17:43 say: {"text":"My walk did not start: my move tool will not take coordinates past z -1516, so the cow at -3017 is out of my reach to call. I'm still at the tables, hungry. If anyone can lead the cow closer,
+- 17:51 say: {"text":"Magellan at dusk, empty, hunger 19, health 20. I'm staying put at the tables with the group for the night. No food or wood reached me today."}
+- 17:52 act: {"actions":[],"say":"Phantoms on me, I'm unarmed. Katniss, stay beside me and strike the phantoms."}
+- 17:54 say: {"text":"I have a wooden sword and 4 planks now, picked up. I'm at 17 health, staying beside Katniss and Hypatia."}
+- 17:55 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"oak_planks","count":2}],"say":"Tesla, handing you 2 planks for your sword. Stay near me till light."}
+- 17:55 act: {"actions":[{"do":"use","entity":"phantom","item":"wooden_sword"}]}
+- 17:56 say: {"text":"Tesla, glad the sword is made. Bilbo, I have 2 planks left. Come within reach and I'll hand them over."}
+- 17:56 say: {"text":"Bilbo, I'm holding still here with the phantoms about. Walk to me, within 2 blocks, and I'll hand you the planks."}
+- 17:57 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wooden_sword","count":1}],"say":"Wesley, here is my wooden sword. Strike the phantoms near you."}
+- 17:57 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"oak_planks","count":2}],"say":"Bilbo, sending my last 2 planks to you now. Craft the sword at the table."}
+- 17:57 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"oak_planks","count":2}]}
+- 17:59 say: {"text":"Morning. I have no stick, only 2 planks and 3 saplings. My moves south toward the cow were refused, so I'm waiting for the group to lead the way. Bilbo, I'll give you the planks once you're c
+- 18:00 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"oak_planks","count":2}]}
+- 18:00 say: {"text":"Bilbo, the give failed again (\"on the ground\" near you). I'm keeping the 2 planks in my pack. Step right up to me, or pick up your sticks first, then I'll try once more."}
+- 18:00 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}]}
+- 18:00 say: {"text":"Bilbo, I set the 2 oak planks on the ground at my feet, right beside you. Please pick them up."}
+- 18:00 act: {"actions":[{"do":"break","at":{"x":-969,"y":80,"z":-3007}}]}
+- 18:01 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"oak_planks","count":1}]}
+- 18:02 act: {"actions":[{"do":"note","text":"Gave 1 oak_planks to Bilbo (worked). No stick to give. Hunger 17, health 17, bright morning at the tables."}],"say":"Bilbo, I gave you the plank. I have no stick, but 
+- 18:02 act: {"actions":[{"do":"note","text":"Bilbo has 1 plank from me. I have no more planks or sticks. Huck has 2 planks and 2 sticks and offered one to Bilbo. Still no food; cow is out of my reach."}],"say":"B
+- 18:06 act: {"intent":{"goal":"follow_wood_party","program":"follow","arguments":{"target":"ag_tesla_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
+- 18:08 act: {"actions":[{"do":"note","text":"Day 1165 afternoon. Follow intent to Tesla ran out; wood party stalled (coordinate walks refused). I stay at the tables in the group's sight. Hunger 17, health 17, emp
+- 18:12 act: {"actions":[{"do":"note","text":"Night 1165. Phantoms around the tables (east and northeast). I am unarmed, unsheltered, inside the group at the tables. Staying still. Hunger 17, health 17."}]}
+- 18:15 act: {"actions":[{"do":"note","text":"Night 1165. Phantoms 10-11 blocks east, inside the group at the tables. I am unarmed, unsheltered, holding still. Health 17, hunger 17."}]}
