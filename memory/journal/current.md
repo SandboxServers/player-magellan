@@ -53,4 +53,5 @@
 - 15:49 act: {"say":"Han, Magellan here. No oak logs in reach. Could you spare 2 planks for my sword? I have nothing to trade yet, but I will bring wood to the group when I find it.","intent":{"goal":"wait_for_woo
 - 16:01 act: {"say":"Magellan, dawn. Alive, unhurt. Gathering jungle logs close by, in the group's sight.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake
 - 16:02 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"]
+- Waking 42. Recalled summary (header only) and play skill. My tool list has no mcp__geldar__status or wait (world tools absent again). No errand sent, no action taken. Last known state: midday, one jungle log, no sword, no shelter, at x=451 y=107 z=-1074. Stopping this waking.
 - 16:04 act: {"say":"Magellan here, midday. I have one jungle log and no sword. I am gathering jungle logs by the trees to the south-west, in daylight.","intent":{"goal":"gather_jungle_log","program":"gather","arg
