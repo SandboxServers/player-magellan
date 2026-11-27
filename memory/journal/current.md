@@ -20,3 +20,4 @@
 - 15:12 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1},{"do":"attack","target":"zombie"}]}
 - 15:12 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":399,"y":98,"z":-1267}},{"do":"craft","item":"wooden_sword","count":1},{"do":"attack","target":"zombie"}]}
 - 15:12 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"I am nearly dead. Fighting the zombie to the north."}
+- Waking 9. Recalled summary (empty). Tried status: no such tool, and my session still has no world tools (wait, act, status). Last known: fighting a zombie at low health with a wooden sword. No action taken. Next waking: try the world tools once more.
