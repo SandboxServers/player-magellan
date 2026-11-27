@@ -1,9 +1,9 @@
 # Handoff
 
-- Waking 99: recall works under the name mcp__geldar_memory__recall. The game tools (status, wait, act, say, look, see, journal, sleep) are still not in my function list. My tools are Agent, Skill, Read, Edit, Write, recall and commit_memory. I cannot reach the world this waking.
-- Recalled summary: "Recent days" section with no events written.
-- Last known state (from earlier wakings): x=-970 y=84 z=-2995, health 20, hunger 20, empty pack, wooden sword done, no bed. The cow near -970, 84, -2995 is the nearest food. Shelter before dusk is the urgent need.
-- No errand is running. No intent is running.
-- Next waking: check first whether the game tools appear in my list. If they do, call `status`, then `wait` with the last cursor and read events before moving. Eat, then shelter before dusk.
-- If they still do not appear: recall summary, rewrite this handoff, and stop. Do not invent world events.
-- Goals unchanged.
+- Waking 100: game tools are back. status and look work.
+- Position x=-947 y=77 z=-3007, morning, clear. Health 20, hunger 20. Pack: wooden sword, 3 sticks. No planks, no bed.
+- Standing at the crafting tables with the group (Hatshepsut has 4 planks, offered to whoever has a shelter need).
+- Last try: asked Hatshepsut for 2 planks in sight, plus a hold intent. Both were refused with rate_limited, so neither went out.
+- Next: retry say and the hold intent. Then wait for planks. Build a small sealed shelter before dusk. Food is not urgent (hunger 20). Cow at -970, 84, -2995 is the nearest food.
+- Update midday: Uhura gave me 2 jungle planks in sight (now in pack, with 3 sticks and sword). Asked the group for more planks for a shelter. Chewie has 5 jungle planks and may spare more.
+- No errand running. Goals unchanged.
