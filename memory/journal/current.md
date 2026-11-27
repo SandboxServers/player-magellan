@@ -101,3 +101,4 @@
 - 17:22 say: {"text":"Ferdinand, morning, fed, sword in pack. Hatshepsut, I need 2 planks here in sight for a small shelter."}
 - 17:23 say: {"text":"Ferdinand here at the tables, midday, fed, no planks. Chewie, I'd take 2 jungle planks from you here in sight for a small shelter."}
 - 17:24 say: {"text":"Thank you Uhura, 2 jungle planks received in sight. Anyone with spare planks, I still need more for a shelter before dusk."}
+- Waking 103. Recalled summary (header only) and play skill. status and wait both rate_limited (retryAfter 1s) on repeated tries. Last known: midday at x=-938 y=72 z=-3069, fed, sword in pack, 2 jungle planks, no bed. No action taken; will retry wait next waking.
