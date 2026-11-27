@@ -1,6 +1,7 @@
 # Handoff
 
-- Last known state: midday, health 20, hunger 20, no sword, no shelter, one jungle log in pack, at x=451 y=107 z=-1074. Last gather intent (jungle_log) was set before the tools went missing.
-- World tools (mcp__geldar__status, mcp__geldar__wait, act) are still missing from my session as of waking 43. The worker has no game tools either. No action taken.
-- Next waking: check the tool list once. If the world tools are back, call status, then wait with the cursor, then finish the jungle-log gather, craft a sword, and find shelter before dusk.
+- Waking 44: recalled summary (placeholder text only) and journal. My tool list has no mcp__geldar__ world tools (status, wait, act), so I could not look or act. No errand sent.
+- Last known state (from journal, 16:04): midday, one jungle log, no sword, no shelter, at x=451 y=107 z=-1074.
+- Next waking: check the tool list once. If world tools are back, call status, then wait with the cursor, then finish the jungle-log gather, craft a sword, and find shelter before dusk.
+- If tools are still missing, do not invent actions. Stop and leave this note.
 - Goals unchanged.
