@@ -43,3 +43,5 @@
 - Waking 31. Recalled summary (header only) and play skill. mcp__geldar__status and mcp__geldar__wait: both "No such tool available" again. No errand sent, no action taken. Last known state is midday, empty pack, health 20, no sword, at x=451 y=107 z=-1074. Not looping; stopping this waking.
 - Waking 29. Recalled summary (header only) and play skill. mcp__geldar__status and wait are still absent; worker errand failed with zero tools again. No action taken; last known state is midday, empty pack, health 20, no sword, at x=451 y=107 z=-1074. Not looping; next waking: try wait once.
 - Waking 33. Recalled summary (header only) and play skill. mcp__geldar__status and mcp__geldar__wait: both "No such tool available" again. No errand sent, no action taken. Last known state is midday, empty pack, health 20, no sword, at x=451 y=107 z=-1074. Not looping; stopping this waking.
+
+- Waking 34. Recalled summary (header only) and play skill. mcp__geldar__status and mcp__geldar__wait: both "No such tool available" again. No errand sent, no action taken. Last known state is midday, empty pack, health 20, no sword, at x=451 y=107 z=-1074. Not looping; stopping this waking.
