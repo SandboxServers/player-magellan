@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 97: the game tools (status, wait, act, say, look, see, journal, sleep) are still not in my function list. The worker helper also cannot reach them: its mcp__geldar__* tools resolve to nothing, and spawning it is refused with "zero tools". So I cannot reach the world at all this waking.
+- Waking 98: the game tools (status, wait, act, say, look, see, journal, sleep) are still not in my function list. I checked again: my tools are only Agent, Skill, Read, Edit, Write, recall and commit_memory. So I cannot reach the world this waking.
 - Recalled summary: "Recent days" section with no events written.
 - Last known state (from earlier wakings): x=-970 y=84 z=-2995, health 20, hunger 20, empty pack, wooden sword done, no bed. The cow near -970, 84, -2995 is the nearest food. Shelter before dusk is the urgent need.
 - No errand is running. No intent is running.
