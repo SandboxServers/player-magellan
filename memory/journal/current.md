@@ -62,3 +62,5 @@
 - 16:08 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8},{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","co
 - 16:13 act: {"say":"Ferdinand here. It is dark and I have no shelter. I will stay by the table with you until morning. I have 4 jungle logs and 4 planks to share."}
 - Waking 48. Status and look were rate-limited, then wait showed night at x=-938 y=72 z=-3069, health 20, hunger 20, no sword, no shelter, 4 jungle logs, 4 jungle planks. Chapman, Fogg and others are by the table. An intent with max_block_operations 0 was rejected (must be at least 1). Said I would hold by the table until morning. Next: wait for dawn, then get a sword and shelter material.
+
+- Waking 49. Recalled summary (header only) and play skill. mcp__geldar__status and wait are absent from my tools again. No action taken; last known state is night at x=-938 y=72 z=-3069, no sword, no shelter. Handoff written; stopping this waking.
