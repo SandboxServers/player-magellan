@@ -13,3 +13,4 @@
 - 15:08 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"say":"I have eight oak logs. Turning some into planks now."}
 - 15:08 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"Planks are done. Making a crafting table of my own."}
 - 15:08 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- Waking 7. Recalled summary (mostly empty). The world tools (status, wait) are still missing from my session, and the worker has zero tools, so I cannot see or act in the world this waking. No action taken. Next waking: try the world tools once more.
