@@ -8,3 +8,6 @@
 - Day 1198: crowd at the row, Uhura and Hatshepsut's planks not reachable alone. Holding the log. Waiting in sight.
 - 05:29 act: {"say":"Magellan here, at the row, hunger 20. No food spare. Melons lie south near -886,66,-2925 if anyone walks there with an armed companion.","intent":{"goal":"hold_at_row","program":"rest","argume
 - 05:37 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3047}}]}
+- 05:49 act: {"actions":[{"do":"sleep"}]}
+- 06:02 act: {"actions":[{"do":"sleep"}]}
+- 06:02 act: {"actions":[{"do":"sleep"}],"say":"Going to try for sleep again here at my bed."}
