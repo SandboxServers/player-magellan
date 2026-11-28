@@ -29,3 +29,8 @@
 - Day 1203: at the row, crowd thick, Uhura's voice heard but not alone with me. Waited in sight. Dusk 1203: trying my bed in the group's sight. Night 1203: "Your sleep worked." Health and hunger 20. Log still held for Uhura."}
 - 06:54 act: {"actions":[{"do":"sleep"}],"say":"Magellan, dusk 1203. Health and hunger 20. Still holding Uhura's log, not handed over. Trying my bed at the row in the group's sight."}
 - 06:54 act: {"actions":[{"do":"sleep"}]}
+- Day 1203 wait: timed out, nobody alone with me, Uhura not seen. Health and hunger 20. Holding her log; staying at the row in sight.
+- Dusk 1204: nobody alone with me, Uhura not seen. Health and hunger 20. Trying my bed at the row in the group's sight.
+- 07:07 act: {"actions":[{"do":"sleep"}],"say":"Magellan, dusk 1204. Health and hunger 20. Still holding Uhura's log; I give it when she stands alone in my reach and names herself. Trying my bed here.
+- Night 1204: "Your sleep worked: 4 of 10", then "Your sleep worked." at the row in the group's sight. Health and hunger 20. Still holding Uhura's log, not handed over."}
+- 07:07 act: {"actions":[{"do":"sleep"}]}
