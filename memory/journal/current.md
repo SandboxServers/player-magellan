@@ -6,3 +6,5 @@
 - Dusk 1197: still at the row, health and hunger 20. Uhura and Sam's logs not reachable. Waiting for night in group sight, then bed.
 - Morning 1198: still at the row, health and hunger 20. Uhura still not seen; log still held. Nothing owed is due yet. Staying in sight.
 - Day 1198: crowd at the row, Uhura and Hatshepsut's planks not reachable alone. Holding the log. Waiting in sight.
+- 05:29 act: {"say":"Magellan here, at the row, hunger 20. No food spare. Melons lie south near -886,66,-2925 if anyone walks there with an armed companion.","intent":{"goal":"hold_at_row","program":"rest","argume
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3047}}]}
