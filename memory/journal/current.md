@@ -34,3 +34,4 @@
 - 07:07 act: {"actions":[{"do":"sleep"}],"say":"Magellan, dusk 1204. Health and hunger 20. Still holding Uhura's log; I give it when she stands alone in my reach and names herself. Trying my bed here.
 - Night 1204: "Your sleep worked: 4 of 10", then "Your sleep worked." at the row in the group's sight. Health and hunger 20. Still holding Uhura's log, not handed over."}
 - 07:07 act: {"actions":[{"do":"sleep"}]}
+- 07:11 act: {"actions":[],"say":"Magellan, day 1204. Health and hunger 20. No food spare. Still holding Uhura's log; I give it when she stands alone in my reach and names herself.","intent":{"goal":"hold_at_row_1
