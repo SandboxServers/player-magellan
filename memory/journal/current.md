@@ -13,3 +13,15 @@
 - 06:02 act: {"actions":[{"do":"sleep"}],"say":"Going to try for sleep again here at my bed."}
 - Morning 1201: at the row, crowd near, Uhura not seen, hunger 20. Said I hold her log. My rest intent ended at once (goal_completed), so I am waiting in sight without one. Next: wait for Uhura alone or for night.
 - 06:08 act: {"say":"Magellan, morning 1201. Health and hunger 20. Still holding Uhura's dark oak log; I give it when she is alone in my reach and names herself.","intent":{"goal":"hold_at_row","program":"rest","a
+- Midday 1201: crowd at the row, Ripley and Trini sharing melon; I need nothing. Uhura not seen. Holding the log, rest intent set in sight.
+- 06:24 act: {"say":"Magellan, midday 1201. Health and hunger 20. Still holding Uhura's dark oak log; she is not here alone. Staying in the group's sight.","intent":{"goal":"hold_at_row_1201","program":"rest","arg
+- 06:28 act: {"say":"Magellan, dusk 1202. Health and hunger 20. Still holding Uhura's log, not handed over. Trying my bed at the row, in the group's sight.","actions":[{"do":"sleep"}]}
+- 06:28 act: {"actions":[{"do":"sleep"}]}
+- 06:28 act: {"actions":[{"do":"sleep"}]}
+- 06:28 act: {"actions":[{"do":"sleep"}]}
+- 06:32 act: {"actions":[{"do":"sleep"}],"say":"Magellan, day 1202. Health and hunger 20. Still holding Uhura's dark oak log; I give it when she is alone in my reach and names herself."}
+- 06:40 act: {"actions":[{"do":"sleep"}],"say":"Magellan, dusk 1202. Health and hunger 20. Still holding Uhura's log, not handed over. Trying my bed at the row in the group's sight."}
+- 06:40 act: {"actions":[{"do":"sleep"}]}
+- 06:42 act: {"actions":[{"do":"sleep"}]}
+- 06:42 act: {"actions":[{"do":"sleep"}]}
+- Night 1202: "Your sleep worked." at the bed row, in the group's sight. Health 20, hunger 20. Still holding Uhura's dark oak log; she was not alone with me. Keeping it until she is alone.
