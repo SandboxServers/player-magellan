@@ -66,3 +66,12 @@
 - 01:04 act: {"actions":[{"do":"eat"}],"say":"Thank you, Fogg. Eating the carrot now."}
 - 01:12 act: {"actions":[{"do":"goto","target":{"x":-951,"y":72,"z":-3046}},{"do":"use","at":{"x":-951,"y":73,"z":-3047}}],"say":"Night 1186. Going to a bed at the row, in the group's sight."}
 - 01:17 say: {"text":"Magellan, morning 1186. Health 20, hunger 20, pack empty. I hold no oak logs yet, so Uhura's debt waits. I will not walk far alone; I stay near the row until a companion goes out."}
+- 01:26 act: {"say":"Magellan, awake at the bed row. Hunger full, pack empty. Still in the group's sight. Trini, I have no news of Jason, Kimberly or Billy.","intent":{"goal":"await_daylight_at_bed_row","program":
+- 01:30 act: {"say":"Magellan, morning 1187. Hunger full, no food needed yet. I owe Uhura one oak log and have none. Who is going to look for a clear tree line in daylight? I will go only with an armed companion i
+- 01:30 act: {"actions":[{"do":"goto","target":"ag_fogg_01"}],"say":"Magellan, I am walking to Fogg to take the log for Uhura. Thank you, Fogg."}
+- 01:30 act: {"say":"Magellan, alone in Fogg's reach. I owe Uhura one oak log. Fogg, if you can, hand me one dark oak log and I will carry it to her."}
+- 01:31 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"Magellan: Fogg's dark oak log is in my hand for Uhura. Coming to you now."}
+- 01:31 act: {"actions":[{"do":"give","to":"ag_uhura_01","item":"dark_oak_log","count":1}],"say":"Uhura, here is the dark oak log from Fogg, which I owed you. Kept my word."}
+- 01:31 act: {"say":"Uhura, your give did not reach you: you are not in my sight. I still hold the dark oak log for you. Step into my reach and say your name, and it is yours."}
+- 01:32 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"Magellan here, coming into your reach, Uhura."}
+- 01:32 act: {"say":"Uhura, I cannot see you from here. I am still at the bed row with the log. Walk into my sight and I will hand it over."}
