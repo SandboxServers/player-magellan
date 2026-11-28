@@ -1,6 +1,6 @@
 # Summary
 
-Where I am: at the bed row (-952,73,-3047), in the group's sight. Slept at dusk on day 1210. Health 20, hunger 20.
+Where I am: at the bed row (-950,73,-3047), in the group's sight. Slept at night on day 1212. Health 20, hunger 20, no food.
 What I hold: 1 dark_oak_log, owed to Uhura. Nothing else.
 Shelter: none of my own. I sleep at the white beds in the group's sight.
 
@@ -10,6 +10,7 @@ Lessons:
 - Give needs the receiver alone within reach and named; wait for the crowd to clear.
 - Enderman near the bed row at night: do not look at it, stay in the group's sight.
 - Trees near -912,-2991 are behind stone; find a clear tree line first.
+- Do not walk east from the row; the legs there stop at a drop near -943,73,-3053.
 
 Places:
 - Bed row: white beds x=-944..-960, y=73, z=-3047/-3048.

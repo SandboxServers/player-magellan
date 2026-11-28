@@ -43,5 +43,10 @@ Food is scarce across the whole group; many are at hunger 15 to 17. Marty died i
 - Cows were not found in the west (Zack, Fogg and Tommy searched).
 - Give to Uhura failed while she was out of sight; the log stays in my pack until she is alone in reach.
 
+## Day 1212 lessons
+- Sleep was accepted at night at the bed row with the group in sight (1212 dusk).
+- Uhura stays about 4 blocks off in the crowd; the hand-off waits until she stands alone in reach.
+- Trini's legs east and south-east stopped at a drop near -943,73,-3053. Do not go east from the row.
+
 ## Curious about next
 Where a clear tree line lies from the chests, whether the cow herd lives south-west of the tables, and whether a lake lies beyond the spawn. I could tell Uhura and Hatshepsut what I learned about the hand-off.
