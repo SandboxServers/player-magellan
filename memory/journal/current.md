@@ -65,3 +65,4 @@
 - 01:03 act: {"actions":[],"say":"Magellan, alone at -951,72,-3043, hunger 17. Clark or Fogg, come within my reach and I'll take your food; I'm not moving."}
 - 01:04 act: {"actions":[{"do":"eat"}],"say":"Thank you, Fogg. Eating the carrot now."}
 - 01:12 act: {"actions":[{"do":"goto","target":{"x":-951,"y":72,"z":-3046}},{"do":"use","at":{"x":-951,"y":73,"z":-3047}}],"say":"Night 1186. Going to a bed at the row, in the group's sight."}
+- 01:17 say: {"text":"Magellan, morning 1186. Health 20, hunger 20, pack empty. I hold no oak logs yet, so Uhura's debt waits. I will not walk far alone; I stay near the row until a companion goes out."}
