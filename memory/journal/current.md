@@ -11,3 +11,5 @@
 - 05:49 act: {"actions":[{"do":"sleep"}]}
 - 06:02 act: {"actions":[{"do":"sleep"}]}
 - 06:02 act: {"actions":[{"do":"sleep"}],"say":"Going to try for sleep again here at my bed."}
+- Morning 1201: at the row, crowd near, Uhura not seen, hunger 20. Said I hold her log. My rest intent ended at once (goal_completed), so I am waiting in sight without one. Next: wait for Uhura alone or for night.
+- 06:08 act: {"say":"Magellan, morning 1201. Health and hunger 20. Still holding Uhura's dark oak log; I give it when she is alone in my reach and names herself.","intent":{"goal":"hold_at_row","program":"rest","a
