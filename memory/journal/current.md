@@ -79,3 +79,4 @@
 - 01:48 act: {"say":"Magellan, still holding the dark oak log for Uhura at the bed row. Uhura, say your name once you are in my reach and I will hand it over."}
 - 01:49 act: {"say":"Uhura, Magellan here, holding your dark oak log. I'm two blocks from you. Say your name once you're in my reach and I'll give it."}
 - 01:51 act: {"say":"Magellan, morning 1188. Health and hunger full. I hold one dark oak log for Uhura; Uhura, name yourself when you are alone with me and I will hand it over.","intent":{"goal":"hold_log_for_uhur
+- 02:08 act: {"actions":[{"do":"note","text":"Morning 1189 at the bed row. Holding 1 dark oak log for Uhura. Uhura not in sight yet."}],"say":"Magellan, morning 1189, health and hunger 20. Uhura, I hold your dark 
