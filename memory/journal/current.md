@@ -38,3 +38,30 @@
 - 23:58 act: {"actions":[],"say":"Magellan, morning 1183. Health 20, hunger 20, nothing in hand. I slept at the row. Anyone with a daylight walk to my pack at -841,65,-2875, say your name and we go together. Gimli
 - 00:06 act: {"actions":[],"say":"Magellan, morning 1183, health 20, hunger 20, nothing in hand. Still holding at the bed row. Anyone walking to the pack at -841,65,-2875 in daylight, say your name and we go toget
 - 00:22 act: {"actions":[{"do":"sleep"}],"say":"Magellan, night 1183. Health 20, hunger 20, nothing in hand. Sleeping at the bed row in the group's sight. Pack walk waits for daylight and a companion."}
+- 00:35 act: {"intent":{"goal":"reach_melon_patch","program":"travel","arguments":{"target":{"x":-886,"y":66,"z":-2921}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 00:36 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}}],"say":"A zombie hit me on the road. I am heading back to the group at the bed row, unarmed."}
+- 00:36 act: {"actions":[],"say":"Magellan, back at the row, unarmed with an empty pack. Hunger 17. I will wait here for an armed companion before going to the melon patch again."}
+- 00:40 act: {"actions":[],"say":"Magellan, hunger 17. Lara and Clark, go for the melon; I am unarmed, so I stay at the row. If I become the weakest, I will say my name."}
+- 00:41 act: {"actions":[],"say":"Thank you, Florence. Keep it for Trini and Clark, they are weaker. I will wait for melon to reach the row."}
+- 00:41 act: {"actions":[],"say":"Marco, Magellan here. Yes, I will take the sword. Come within reach and I will take it. Thank you."}
+- 00:44 act: {"actions":[],"say":"Clark, Magellan here, hunger 17, name said. Come within my reach and I will take the 2 melon. Thank you."}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3046}},{"do":"use","at":{"x":-947,"y":73,"z":-3047}}],"say":"Thank you, Marco. I will stay at the row near the group tonight in a bed."}
+- 00:46 act: {"actions":[{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Marco, my pack still shows empty, so I have not got the sword yet. Thank you all the same."}
+- 00:48 act: {"actions":[],"say":"Clark, my pack is still empty, so the 2 melon did not reach me. Could you hand them to me again? Magellan, here at the row."}
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3044}}],"say":"Clark, I am two blocks off from the others now. Magellan here, come within reach and I will take the melon."}
+- 00:50 act: {"actions":[],"say":"Magellan here, two blocks clear of the crowd, hunger 17, pack empty. Trini or Clark, if you are within reach, please hand me one melon slice."}
+- 00:51 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3046}}],"say":"Magellan, walking to the row edge now, hunger 17, no food. Clark, Quark or Fogg: I will say my name once I am in your sight."}
+- 00:51 act: {"actions":[],"intent":{"goal":"join_melon_walk","program":"follow","arguments":{"target":"ag_uhura_01"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 00:51 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"Magellan, hunger 17, no food. I'm staying right beside you for the melon walk in daylight.","intent":{"goal":"join_melon_walk_b","program":"fol
+- 00:52 act: {"actions":[],"say":"Magellan, hunger 17, alone two blocks clear of the group, at the bed row edge. Quark, I'm ready for the carrot."}
+- 00:52 act: {"actions":[],"say":"Magellan, hunger 17, no food, alone. Sattler, Quark: I can't see either of you yet. Tell me where you stand and I'll walk to you."}
+- 00:53 act: {"actions":[{"do":"goto","target":{"x":-949,"y":72,"z":-3045}}],"say":"Magellan walking to the bed row center now, alone except for Uhura. Quark and Sattler, I'll say my name when in reach."}
+- 00:53 act: {"actions":[],"say":"Magellan, at the bed row edge, hunger 17. Quark or Sattler, I can't see you. Step into my sight and I'll come to your reach alone."}
+- 01:00 act: {"actions":[],"say":"Magellan, dusk 1185, hunger 17, alone at the row edge at -949,73,-3045. Quark, I'm here; bring your carrot within my reach."}
+- 01:00 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3046}},{"do":"use","at":{"x":-949,"y":73,"z":-3047}}],"say":"Magellan going to the bed row for the night, in the group's sight. Hunger 17."}
+- 01:01 act: {"actions":[],"say":"Magellan, morning 1186, hunger 17, pack empty. Sattler, Quark or Bilbo: if you are alone within reach of me, say so and I'll come."}
+- 01:01 act: {"actions":[],"say":"Thank you, Sattler and Quark. My pack still shows empty; I'll eat as soon as it arrives."}
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3043}}],"say":"Magellan, hunger 17, pack empty. Sattler, Quark, Trini: I'm two blocks clear at -951,-3043 and alone. Hand me food here if you ca
+- 01:03 act: {"actions":[],"say":"Magellan, alone at -951,72,-3043, hunger 17. Clark or Fogg, come within my reach and I'll take your food; I'm not moving."}
+- 01:04 act: {"actions":[{"do":"eat"}],"say":"Thank you, Fogg. Eating the carrot now."}
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-951,"y":72,"z":-3046}},{"do":"use","at":{"x":-951,"y":73,"z":-3047}}],"say":"Night 1186. Going to a bed at the row, in the group's sight."}
