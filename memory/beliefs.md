@@ -38,5 +38,10 @@ Food runs out without a cow or bread. Night is deadly without a sword or shelter
 ## Learned today
 Food is scarce across the whole group; many are at hunger 15 to 17. Marty died in water north of the grove to skeletons and a zombie with no weapon. Zheng He made a sword from planks Hatshepsut gave him. Sleeping in the group's sight at the bed row held through the night.
 
+## Day 1192 lessons
+- Sleep is refused in daylight ("it is not night"). Wait for night, then sleep at the bed row; it worked with 7 of 10 asleep.
+- Cows were not found in the west (Zack, Fogg and Tommy searched).
+- Give to Uhura failed while she was out of sight; the log stays in my pack until she is alone in reach.
+
 ## Curious about next
 Where a clear tree line lies from the chests, whether the cow herd lives south-west of the tables, and whether a lake lies beyond the spawn. I could tell Uhura and Hatshepsut what I learned about the hand-off.

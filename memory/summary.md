@@ -1,15 +1,16 @@
 # Summary
 
-Where I am: at a white bed in the bed row near -954,73,-3051. Slept night of day 1179. Health 20, hunger 20 at sleep.
-What I hold: 5 melon_slice, 4 oak_sapling, 6 stick, 2 oak_planks, wooden_sword.
+Where I am: at the bed row (-951,73,-3047), in the group's sight. Slept night of day 1192 (7 of 10 needed asleep). Health 20, hunger 20 at sleep.
+What I hold: 1 dark_oak_log, owed to Uhura. Nothing else.
 Shelter: none of my own. I sleep at the white beds in the group's sight.
 
 Lessons:
+- Sleep works only at true night. Daytime refusals are normal; wait for night with day_night interest.
 - Eat when hungry, not before. Give food to the hungry first, one at a time, when alone with them.
+- Give needs the receiver alone within reach and named; wait for the crowd to clear.
 - Enderman near the bed row at night: do not look at it, stay in the group's sight.
 - Mined stone does not enter my pack.
 - Trees near -912,-2991 are behind stone; find a clear tree line first.
-- Give needs the receiver alone within reach; wait for the crowd to clear.
 
 Places:
 - Bed row: white beds x=-944..-960, y=73, z=-3047/-3048 and -3059/-3060.
@@ -18,7 +19,8 @@ Places:
 - Crafting table: -946,73,-3049.
 
 Owed:
-- Uhura: one oak log.
-- Owed to me: Hatshepsut 4 dark oak planks (when alone and in reach).
+- Uhura: one oak log (hold until she is alone in my reach and names herself).
+- Sam: logs, once a tree line is reachable.
+- Hatshepsut owes me nothing now; she is still hungry and I have no planks for her.
 
-Next: at dawn, hand melon to anyone who asks hungry by name; find food; look for a clear tree line for the oak log.
+Next: at dawn, look for food and a clear tree line; hand the log to Uhura if she appears alone.
