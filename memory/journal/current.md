@@ -8,3 +8,5 @@
 - 10:33 say: {"text":"Ferdinand, night 1214. Holding at the row in the group's sight, health and hunger full. Going to sleep here. Nobody alone."}
 - 11:00 act: {"actions":[],"say":"Magellan, night 1215. Holding at the row in sight, nobody alone. Uhura, I still hold your dark oak log; name yourself when you stand alone in my reach."}
 - 11:12 act: {"actions":[{"do":"note","text":"Night 1216 at the bed row. Health 20, hunger 20. Holding 1 dark_oak_log for Uhura; she is not alone here. Going to sleep in the group's sight."}],"say":"Magellan here,
+- 11:17 say: {"text":"Magellan, morning 1217. Health and hunger full. Holding the log for Uhura at the row. Nobody alone; I wait for Trini's named leg."}
+- 11:25 act: {"say":"Magellan, night 1217. Holding at the row in the group's sight, health and hunger full. Nobody alone. Sleeping here."}
