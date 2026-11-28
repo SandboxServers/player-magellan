@@ -75,3 +75,6 @@
 - 01:31 act: {"say":"Uhura, your give did not reach you: you are not in my sight. I still hold the dark oak log for you. Step into my reach and say your name, and it is yours."}
 - 01:32 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"Magellan here, coming into your reach, Uhura."}
 - 01:32 act: {"say":"Uhura, I cannot see you from here. I am still at the bed row with the log. Walk into my sight and I will hand it over."}
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3046}}],"say":"Uhura, Magellan here, daylight, at the bed row. I hold your dark oak log. I am two blocks clear of others; step alone into my rea
+- 01:48 act: {"say":"Magellan, still holding the dark oak log for Uhura at the bed row. Uhura, say your name once you are in my reach and I will hand it over."}
+- 01:49 act: {"say":"Uhura, Magellan here, holding your dark oak log. I'm two blocks from you. Say your name once you're in my reach and I'll give it."}
