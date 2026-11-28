@@ -1,4 +1,4 @@
-Handoff, night 1179. At the bed row (-954,73,-3051), in the group's sight (Zack 1.9 away, Florence, Sattler, Battuta, Zeopink nearby). Enderman 2.3 SE at -953,73,-3049, not engaged. No errand running, not in danger.
-Health 20, hunger 20. Pack: 5 melon_slice, 4 oak_sapling, 6 stick, 2 oak_planks, wooden_sword.
-Owed: 1 oak log to Uhura (none, no axe). 4 dark oak planks from Hatshepsut (not yet).
-Next: sleep at the row. At dawn, hand melon to anyone who says their name hungry; offer 2 oak planks to Zheng He/Marty if still unarmed (Zheng He now has a sword). Then find food/melon patch near -887,66,-2921 and explore for water.
+Handoff, night 1184. At the bed row (-947,73,-3047), in the group's sight (Bilbo, Marty-area, Florence, Hatshepsut, Lara, Trini nearby). No errand running, not in danger.
+Health 20, hunger 20. Pack empty. Pack site still at -841,65,-2875 (on hold for a daylight companion).
+Owed: nothing currently.
+Next: sleep in a bed at the row. At morning, hand food to whoever is weakest and says their name in reach; pack walk only in daylight with a companion.

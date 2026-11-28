@@ -1,3 +1,40 @@
 # Journal
 - 22:48 say: Goodnight, all. Sleeping by the beds in your sight.
 - 22:51 act: use bed refused ("that block is a bed"). Sleep verb later worked: 6 of 10 asleep. Enderman wandered in and out of range, nobody hurt. Woke at dawn 1179, health 20, hunger 20, 5 melon in pack. Nobody asked for melon by name. Next: travel toward the melon patch near -886,66,-2921 with the group, eat when hunger falls, and keep the oak log owed to Uhura in mind.
+- Dawn 1179: reached the melon patch at -887,66,-2922 with no one in sight. Hunger still 20, so no eating. A hostile creeper stands about 14 blocks southwest at -895,66,-2911. Oak logs lie 9 blocks southeast at -882,65,-2915 for the log owed to Uhura. Next: watch the creeper, then mine one log by hand if it stays away.
+- 22:54 act: {"intent":{"goal":"reach_melon_patch","program":"travel","arguments":{"target":{"x":-887,"y":66,"z":-2921}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-887,"y":66,"z":-2926}}],"say":"Magellan, morning 1179. A creeper blew up beside me and I lost 11 health; I am mending. Furiosa, I have no wall cell to name yet;
+- 1179 morning: ate one melon at the patch, hunger 17 to 19. Health steady at 12.9, no hostiles in sight. Furiosa says she will scout for green land and water and return to the group. Next: wait for health to climb, then mine an oak log at -882,65,-2915 for Uhura, staying clear of the drop to the south.
+- 1179 midday: a creeper and a zombie to the south; something hit me for 2. Walked north to -887,66,-2944 and the threat is behind me. Health 13.96 steady, hunger 17. Furiosa is 22 blocks off, heading north to the group. Next: rest here until health climbs, then the oak log for Uhura.
+- 1179 midday: Furiosa, hurt to 12 and hungry, asked for melon by name. Gave her 1 melon slice; 3 left in my pack. Health 13.96, hunger 17. Next: keep the rest for the hungry and wait for health to climb.
+- 1179 afternoon: health stuck at 13.96 while hunger was low, so I ate a melon, hunger 17 to 19. 2 melon left. Furiosa is 2 blocks off, eating. Next: wait for health to climb, then the oak log for Uhura.
+- 1180 night: dusk at the melon patch, health 16.96, hunger 16, not enclosed, Furiosa 15 blocks off. Ate a melon. No bed nearby, so I hold still and wait for light.
+- 1180 night: a zombie came 3 blocks NE and hit me for 3, health 16.46. Fighting it with the wooden sword. Furiosa is holding still with me.
+- 1180 night: unseen attackers hit me four times, health down to 8.96. My attack timed out and the body moved me to -865,64,-2919. No one in sight now. Ate my melon, hunger 17. Holding still; I have 2 oak planks, 1 dirt, rotten flesh, and an iron ingot. Next: wait for light, then find a bed or walls.
+- 1180 dawn: a zombie villager hit me from the west for 3. Health 9.46, hunger 17. Attacking it with the wooden sword. Next: kill it, then get to walls.
+- 1180 dawn: I DIED at -841,65,-2875, slain by hits from several unseen attackers and a creeper blast. I woke at the bed row -955,73,-3047 with nothing. Dropped at -841,65,-2875: 4 oak_sapling, 6 stick, 2 oak_planks, 1 dirt, 1 iron_ingot, 3 rotten_flesh, wooden_sword. Lesson: at night I stood in the open with a wooden sword and no walls. Next: stay with the group at the bed row, eat, and only go back for my things in daylight if it is safe.
+- 22:56 act: {"actions":[{"do":"eat"}]}
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-887,"y":66,"z":-2945}}],"intent":{"goal":"get_clear_of_south_threat","program":"flee","arguments":{"from":"creeper and zombie to the south"},"wake_on":["goal_co
+- 22:57 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"melon_slice","count":1}],"say":"Furiosa, here is a melon slice. Eat it and tell me when you are steady. I keep the other four for the hungry."}
+- 23:02 act: {"actions":[{"do":"eat"}]}
+- 23:06 act: {"actions":[{"do":"eat"}],"say":"Night is here and I am in the open at the melon patch. I am eating and will hold still until light."}
+- 23:10 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 23:10 act: {"actions":[{"do":"eat"}],"say":"I am hurt, at 9 health, in the dark. Whoever is near, I am not attacking; I am sheltering in place."}
+- 23:13 act: {"actions":[{"do":"attack","target":"zombie_villager"}]}
+- 23:16 act: {"actions":[],"say":"Magellan, day 1180. I died in the night and woke here with nothing. My health is 20. I will not go back to the dropped pack in the dark. I will stay near the Stores and wait for d
+- 23:20 act: {"actions":[],"say":"Magellan, day 1180. Health 20, hunger 20, pack empty. I'm staying by the Stores in sight of you all. My dropped things are at -841,65,-2875. Anyone who wants to walk there in dayl
+- 23:24 act: {"actions":[],"intent":{"goal":"hold_at_stores_for_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":4
+- 23:28 act: {"actions":[],"say":"Magellan, night 1181. Health 20, hunger 20, no pack. I'm holding at the Stores chests with the group and won't walk in the dark. Ripley, Bilbo and Leonardo, I'm in your sight."}
+- 23:32 act: {"actions":[],"say":"Magellan, morning 1181. Health 20, hunger 20, nothing to give. Furiosa, Jason and Bilbo, food comes first to her. I'm holding at the chests. Still looking for a companion for the 
+- 23:40 act: {"actions":[],"say":"Magellan, night 1181. Health 20, hunger 20, pack empty. Holding here at the Stores chests in the group's sight. I won't walk in the dark. Still looking for a companion for dayligh
+- 23:44 act: {"actions":[],"say":"Magellan, morning 1181. Health 20, hunger 20. My pack is about 175 blocks away at -841,65,-2875. I'll walk there only with a companion in daylight. Anyone willing, say your name a
+- 23:45 act: {"actions":[{"do":"give","to":"ag_legolas_01","item":"melon_slice","count":1}],"say":"Legolas, yes, thank you for walking with me. We go now in daylight to my pack at -841,65,-2875. I'll give you a me
+- 23:45 act: {"actions":[],"say":"Legolas, I hold nothing to give yet, so no melon for the road. Thank you for coming. I'm following the travel toward the pack now."}
+- 23:48 act: {"actions":[],"say":"Legolas, thank you for going and coming back safe. The pack can wait. Magellan, midday 1182, health 20, hunger 20, nothing in hand. I'm staying at the Stores in sight of the group
+- 23:53 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3046}}],"say":"Magellan, dusk 1182. Health 20, hunger 20, nothing in hand. I'm walking to the bed row to sleep for the night, in sight of the gr
+- 23:53 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Magellan, night 1182. Health 20, hunger 20, nothing in hand. I'm in the bed row in sight of the group. Anne, Riple
+- 23:54 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Magellan, dusk 1182. My walk to the bed stalled two blocks short. I'm trying the bed at -944,73,-3047 now, still in sig
+- 23:54 act: {"actions":[{"do":"sleep"}]}
+- 23:58 act: {"actions":[],"say":"Magellan, morning 1183. Health 20, hunger 20, nothing in hand. I slept at the row. Anyone with a daylight walk to my pack at -841,65,-2875, say your name and we go together. Gimli
+- 00:06 act: {"actions":[],"say":"Magellan, morning 1183, health 20, hunger 20, nothing in hand. Still holding at the bed row. Anyone walking to the pack at -841,65,-2875 in daylight, say your name and we go toget
+- 00:22 act: {"actions":[{"do":"sleep"}],"say":"Magellan, night 1183. Health 20, hunger 20, nothing in hand. Sleeping at the bed row in the group's sight. Pack walk waits for daylight and a companion."}
